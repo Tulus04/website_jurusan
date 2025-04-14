@@ -88,7 +88,6 @@
                 <li><a href="jadwal-perkuliahan.html">Jadwal Perkuliahan</a></li>
                 <li><a href="pedoman.html">Pedoman </a></li>
                 <li><a href="beasiswa.html">Beasiswa</a></li>
-                <li><a href="beasiswa.html">Beasiswa</a></li>
                 <li><a href="https://pmb.politanisamarinda.ac.id/">Penerimaan</a></li>
                 <li><a href="https://www.instagram.com/ikapolitani?igsh=ZXltOHpvcjF4ZGM0">Alumni</a></li>
                 <li><a href="http://repository.politanisamarinda.ac.id/view/divisions/THH/">Repository</a></li>
