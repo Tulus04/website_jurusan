@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Website Jurusan Rekayasan dan Komputer</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Eterna
+  * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+  * Updated: Aug 07 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header sticky-top">
+
+    <div class="topbar d-flex align-items-center dark-background">
+      <div class="container d-flex justify-content-center justify-content-md-between">
+        <div class="contact-info d-flex align-items-center">
+          <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:contact@example.com">politanismd@gmail.com</a></i>
+          <i class="bi bi-phone d-flex align-items-center ms-4"><span>(0541) 260421, 260680</span></i>
+        </div>
+        <div class="social-links d-none d-md-flex align-items-center">
+          <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
+          <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+          <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+          <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </div><!-- End Top Bar -->
+
+    <div class="branding">
+
+      <div class="container position-relative d-flex align-items-center justify-content-between">
+        <a href="index.html" class="logo d-flex align-items-center">
+          <!-- Uncomment the line below if you also wish to use an image logo -->
+          <img class="img-fluid me-6" src="new/assets/img/logo-politani.png" alt="">
+          <h1 >REKAYASA DAN KOMPUTER<br></h1>
+        </a>
+
+        <nav id="navmenu" class="navmenu">
+          <ul>
+            <li><a href="index.html" class="active">BERANDA</a></li>
+            <li class="dropdown"><a href="#"><span>PROFIL</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <ul>
+                <li><a href="Tentang-Jurusan.html">Tentang Jurusan Rekayasa Dan Komputer</a></li>
+                <li><a href="Visi-Misi.html">Visi dan Misi</a></li>
+                <li><a href="Struktur-Organisasi.html">Struktur Organisasi</a></li>
+                <li><a href="akreditasi-prodi.html">Akreditasi Program Studi</a></li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#"><span>PROGRAM STUDI</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <ul>
+                <li><a href="https://geomatika.politanisamarinda.ac.id/">D-III Teknologi Geomatika</a></li>
+                <li><a href="#">D-III Sistem Informasi Akademik</a></li>
+                <li><a href="https://geomatika.politanisamarinda.ac.id/">D-IV Teknologi Rekayasa Geomatika Survei</a></li>
+                <li><a href="#">D-IV Teknologi Rekayasa Perangkat Lunak</a></li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#"><span>KEMAHASISWAAN</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <ul>
+                <li><a href="jadwal-perkuliahan.html">Jadwal Perkuliahan</a></li>
+                <li><a href="pedoman.html">Pedoman </a></li>
+                <li><a href="beasiswa.html">Beasiswa</a></li>
+                <li><a href="https://www.instagram.com/ikapolitani?igsh=ZXltOHpvcjF4ZGM0">Alumni</a></li>
+                <li><a href="http://repository.politanisamarinda.ac.id/view/divisions/THH/">Repository</a></li>
+                <li><a href="kegiatan.html">Kegiatan</a></li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#"><span>TRIDHARMA</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+              <ul>
+                <li><a href="pengajaran.html">Pengajaran</a></li>
+                <li><a href="pengabdian-masyarakat.html">Pengabdian Masyarakat</a></li>
+              </ul>
+            </li>
+            <li><a href="berita.html">BERITA</a></li>
+            <li><a href="hubungi_kami.html">HUBUNGI KAMI</a></li>
+          </ul>
+          <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+        </nav>
+
+      </div>
+
+    </div>
+
+  </header>
+
+
+  <main class="main">
+
+
+  
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+      <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+        <div class="carousel-item active">
+          <img src="new/assets/img/carousel.jpg" alt="">
+          <div class="carousel-container">
+            <h2>Selamat Datang di Jurusan <span>Rekayasa dan Komputer</span></h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <a href="about.html" class="btn-get-started">Get Started</a>
+          </div>
+        </div><!-- End Carousel Item -->
+
+        <div class="carousel-item">
+        <img src="new/assets/img/rektorat.jpg" alt="">
+          <div class="carousel-container">
+            <h2>At vero eos et accusamus</h2>
+            <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+            <a href="about.html" class="btn-get-started">Get Started</a>
+          </div>
+        </div><!-- End Carousel Item -->
+
+        <div class="carousel-item">
+          <img src="new/assets/img/ph.jpg" alt="">
+          <div class="carousel-container">
+            <h2>Temporibus autem quibusdam</h2>
+            <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
+            <a href="about.html" class="btn-get-started">Get Started</a>
+          </div>
+        </div><!-- End Carousel Item -->
+
+        <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
+      </div>
+
+      
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+
+    
+    <section id="clients" class="section clients">
+      <!-- Section Title -->
+      <div class="container section-title text-center" data-aos="fade-up">
+        <h2>Program Studi</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+        <div class="row g-4 justify-content-center">
+          <!-- Card 1 -->
+          <div class="col-md-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="grid-container position-relative text-center">
+              <img src="new/assets/img/ph.jpg" class="grid-image img-fluid w-100" alt="Teknologi Geomatika" style="height: 700px; object-fit: cover;">
+              <div class="grid-overlay position-absolute bottom-0 start-0 w-100 text-white p-3 text-center">
+                <a href="https://geomatika.politanisamarinda.ac.id/" class="text-decoration-none">
+                  <h5 class="mb-0 text-white grid-title">Teknologi Geomatika</h5>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 2 -->
+          <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="grid-container position-relative text-center">
+              <img src="new/assets/img/tg.jpg" class="grid-image img-fluid w-100" alt="Sistem Informasi Akademik" style="height: 700px; object-fit: cover;">
+              <div class="grid-overlay position-absolute bottom-0 start-0 w-100 text-white p-3 text-center">
+                <a href="https://geomatika.politanisamarinda.ac.id/" class="text-decoration-none">
+                  <h5 class="mb-0 text-white grid-title">Sistem Informasi Akademik</h5>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 3 -->
+          <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="grid-container position-relative text-center">
+              <img src="new/assets/img/trpl.jpg" class="grid-image img-fluid w-100" alt="Teknologi Rekayasa Geomatika Survei" style="height: 700px; object-fit: cover;">
+              <div class="grid-overlay position-absolute bottom-0 start-0 w-100 text-white p-3 text-center">
+                <a href="https://trgs.politanisamarinda.ac.id" class="text-decoration-none">
+                  <h5 class="mb-0 text-white grid-title">Teknologi Rekayasa Geomatika Survei</h5>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Card 4 -->
+          <div class="col-md-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="grid-container position-relative text-center">
+              <img src="new/assets/img/rektorat.jpg" class="grid-image img-fluid w-100" alt="Teknologi Rekayasa Perangkat Lunak" style="height: 700px; object-fit: cover;">
+              <div class="grid-overlay position-absolute bottom-0 start-0 w-100 text-white p-3 text-center">
+                <a href="https://trpl.politanisamarinda.ac.id" class="text-decoration-none">
+                  <h5 class="mb-0 text-white grid-title">Teknologi Rekayasa Perangkat Lunak</h5>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section id="pengumuman" class="pengumuman section">
+  <div class="container">
+    <div class="text-center mb-4">
+      <h2><strong>Seputar Jurusan Rekayasa & Komputer</strong></h2>
+    </div>
+
+    <div class="row gy-4 justify-content-center">
+
+      <!-- Kartu Pengumuman 1 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+        <div class="card h-100 shadow-sm">
+          <img src="new/assets/img/rektorat.jpg" class="card-img-top" alt="Pengumuman 1">
+          <div class="card-body">
+            <p class="text-muted mb-1"><i class="bi bi-clock"></i> 06-01-2025</p>
+            <h6 class="card-title"><a href="halaman_konten.html" class="text-decoration-none">PENGUMUMAN HASIL SELEKSI BEASISWA KALTIM TAHAP IV (APBD Perubahan) TAHUN 2024</a></h6>
+            <p class="card-text">Pengumuman Hasil Seleksi Beasiswa KalTim Tahap IV (APBD Perubahan)...</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kartu Pengumuman 2 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+        <div class="card h-100 shadow-sm">
+          <img src="new/assets/img/ph.jpg" class="card-img-top" alt="Pengumuman 2">
+          <div class="card-body">
+            <p class="text-muted mb-1"><i class="bi bi-clock"></i> 19-12-2024</p>
+            <h6 class="card-title"><a href="halaman_konten.html" data-aos="fade-up" data-aos-delay="300" class="text-decoration-none">PENGUMUMAN HASIL SELEKSI BEASISWA KALTIM TAHAP II DAN III TAHUN 2024</a></h6>
+            <p class="card-text">Pengumuman hasil seleksi Beasiswa KalTim Tahap II (Hasil Sanggahan)...</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kartu Pengumuman 3 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+        <div class="card h-100 shadow-sm">
+          <img src="new/assets/img/tg.jpg" class="card-img-top" alt="Pengumuman 3">
+          <div class="card-body">
+            <p class="text-muted mb-1"><i class="bi bi-clock"></i> 29-11-2024</p>
+            <h6 class="card-title"><a href="halaman_konten.html" class="text-decoration-none">PENAMBAHAN WAKTU PERBAIKAN REKENING STIMULAN SISWA</a></h6>
+            <p class="card-text">Sehubungan dengan masih terdapatnya penerima beasiswa yang mengalami Gagal Salur (Retur)...</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kartu Pengumuman 4 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+        <div class="card h-100 shadow-sm">
+          <img src="new/assets/img/trpl.jpg" class="card-img-top" alt="Pengumuman 4">
+          <div class="card-body">
+            <p class="text-muted mb-1"><i class="bi bi-clock"></i> 29-11-2024</p>
+            <h6 class="card-title"><a href="halaman_konten.html" class="text-decoration-none">PENAMBAHAN WAKTU PERBAIKAN REKENING STIMULAN MAHASISWA</a></h6>
+            <p class="card-text">Penerima beasiswa yang mengalami Gagal Salur (Retur) diberikan kesempatan ulang untuk memperbaiki rekening...</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kartu Pengumuman 5 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+        <div class="card h-100 shadow-sm">
+          <img src="new/assets/img/rektorat.jpg" class="card-img-top" alt="Pengumuman 5">
+          <div class="card-body">
+            <p class="text-muted mb-1"><i class="bi bi-clock"></i> 28-11-2024</p>
+            <h6 class="card-title"><a href="halaman_konten.html" class="text-decoration-none">PENGUMUMAN JADWAL UJIAN AKHIR SEMESTER GANJIL 2024/2025</a></h6>
+            <p class="card-text">Jadwal ujian akhir semester ganjil tahun akademik 2024/2025 akan dilaksanakan pada tanggal 15-26 Desember 2024...</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Kartu Pengumuman 6 -->
+      <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+        <div class="card h-100 shadow-sm">
+          <img src="new/assets/img/ph.jpg" class="card-img-top" alt="Pengumuman 6">
+          <div class="card-body">
+            <p class="text-muted mb-1"><i class="bi bi-clock"></i> 27-11-2024</p>
+            <h6 class="card-title"><a href="halaman_konten.html" class="text-decoration-none">PENGUMUMAN PENERIMAAN MAHASISWA BARU TAHUN AKADEMIK 2025/2026</a></h6>
+            <p class="card-text">Penerimaan mahasiswa baru tahun akademik 2025/2026 akan dibuka mulai tanggal 1 Januari 2025...</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Tombol Tampilkan Semua -->
+    <div class="text-center mt-4">
+      <a href="#" class="btn btn-primary">Tampilkan Semua</a>
+    </div>
+  </div>
+</section>
+
+<section id="clients" class="section clients">
+
+    
+
+    <!-- Services Section -->
+    <section id="about" class="section about">
+      <div class="container-fluid p-0" data-aos="fade-up" data-aos-delay="100">
+        <div class="row g-0">
+          <div class="col-12">
+            <section class="d-flex align-items-center" style="min-height: 50vh; background: linear-gradient(135deg, rgba(0, 123, 255, 0.9) 0%, rgba(0, 89, 179, 0.9) 50%, rgba(21, 35, 60, 0.9) 100%);" data-aos="fade-up" data-aos-duration="1000">
+              <div class="container-fluid px-0">
+                <div class="row align-items-center g-0">  
+                  
+                  <!-- Gambar Lambang Politani -->
+                  <div class="col-lg-6 text-center mb-4 mb-lg-0 p-4" data-aos="fade-right" data-aos-delay="200">
+                    <img src="new/assets/img/logo-politani.png" alt="Lambang Politani" class="img-fluid" style="max-width: 300px;">
+                  </div>
+                  
+                  <!-- Konten Teks -->
+                  <div class="col-lg-4 text-white text-center text-lg-start p-4" style="min-height: 50vh; display: flex; flex-direction: column; justify-content: center;" data-aos="fade-left" data-aos-delay="400">
+                    <h1 class="fw-bold mb-2">
+                    POLITANI SAMARINDA,<br>KAMPUS YANG BANYAK PRESTASINYA! 🏆 
+                    </h1>
+                    <p class="mb-3">
+                    Ayo gabung bersama kami di Politeknik Pertanian Negeri Samarinda 
+                    Raih masa depan cerah dengan pendidikan vokasi.<br>  
+                    Yuk, daftar sekarang!
+                    </p>
+                    <a href="https://pmb.politanisamarinda.ac.id/" class="btn btn-light fw-bold">
+                      Selengkapnya <i class="bi bi-arrow-right-circle"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </section>
+
+   
+  </main>
+
+  <footer id="footer" class="footer position-relative dark-background">
+
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-4 col-md-6 footer-about">
+          <a href="index.html" class="d-flex align-items-center">
+            <span class="sitename">Eterna</span>
+          </a>
+          <div class="footer-contact pt-3">
+            <p>A108 Adam Street</p>
+            <p>New York, NY 535022</p>
+            <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
+            <p><strong>Email:</strong> <span>info@example.com</span></p>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-md-3 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-md-3 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-12">
+          <h4>Follow Us</h4>
+          <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+          <div class="social-links d-flex">
+            <a href=""><i class="bi bi-twitter-x"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Eterna</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
